@@ -1,0 +1,24 @@
+div {
+	width: 50%;
+	background-color: gray;
+	margin: auto;
+}
+
+h1 {
+	color: purple;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+}
+
+a:link {
+	color: red;
+	text-decoration: none;
+}
+
+a:hover {
+	color: green;
+}
+
+
